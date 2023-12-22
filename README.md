@@ -44,6 +44,8 @@
 <img height="180px" style="margin: 5px" src="https://github-readme-stats.vercel.app/api?username=abhirock1998&count_private=true&show_icons=true&locale=en&theme=midnight-purple" alt="Abhishek's Github Stats"/>
 
 <img height="180px" style="margin: 5px" src="https://github-readme-streak-stats.herokuapp.com/?user=abhirock1998&show_icons=true&theme=midnight-purple" alt="Abhishek's Streak Stats" />
+
+<img height="180px" style="margin: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirock1998&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Abhishek's Streak Stats" />
 </div>
 
 <h2>Hacktoberfest</h2>
